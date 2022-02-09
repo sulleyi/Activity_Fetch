@@ -39,3 +39,23 @@ Server running on http://localhost:3011
 Visiting this URL, you should see "hello!"
 
 This is just a sample output. You will need to change this to serve the static assets. https://koajs.com/ is the best place to read up on how to do this.
+
+---
+
+## Additional Specifications
+
+**Language:** [Typescript](https://www.typescriptlang.org/)
+
+**CSS Framework:** [Milligram](https://milligram.io/)
+
+**Testing Framework:** [ts-Jest](https://kulshekhar.github.io/ts-jest/) (Jest addition to enable typescript testing)
+
+**koa-ejs** for serverside html template rendering
+
+---
+
+Dog images obtained from: [Dog CEO](https://dog.ceo/dog-api/documentation/)
+
+Activity suggestions obtained from: [Bored API](https://www.boredapi.com/)
+
+---
